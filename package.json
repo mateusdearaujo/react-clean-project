@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/mateusdearaujo/react-clean-project#readme",
   "devDependencies": {
+    "@types/jest": "^26.0.23",
     "@types/node": "^15.0.2",
     "@typescript-eslint/eslint-plugin": "^4.22.1",
     "eslint": "^7.25.0",
@@ -27,7 +28,9 @@
     "eslint-plugin-promise": "^5.1.0",
     "eslint-plugin-standard": "^5.0.0",
     "git-commit-msg-linter": "^3.1.0",
+    "jest": "^26.6.3",
     "lint-staged": "^11.0.0",
+    "ts-jest": "^26.5.6",
     "typescript": "^4.2.4"
   }
 }
